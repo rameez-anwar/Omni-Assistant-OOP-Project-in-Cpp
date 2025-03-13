@@ -1,6 +1,6 @@
 # OmniAssistant
 
-OmniAssistant is your all-in-one C++ virtual assistant designed to simplify your daily tasks.
+OmniAssistant is your all-in-one C++  assistant designed to simplify your daily tasks.
 
 ## Features
 * Personalized greetings
